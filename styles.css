@@ -37,11 +37,29 @@ h1 {
     display : inline-block;
 }
 
+.description-container {
+    display : none;
+}
+
+.art-block:hover .description-container {
+    display : block;
+}
+
+.art-block {
+    display : inline;
+}
+
+
 .block-image {
+    display : block;
     float : left;
+
+    padding-right: 20px;
+
     border : 20px solid grey;
     border-radius : 100px;
     margin-right : 20px;
+
 }
 
 .art-block {
