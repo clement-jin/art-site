@@ -19,12 +19,22 @@ h1 {
     width : 100%;
     position : absolute;
     top : -160px;
+    color : greenyellow;
 }
 
 
 .description-paragraph {
     padding : 5px;
     font-size : 150%;
+    visibility: visible;
+}
+
+.description-container {
+    display : none;
+}
+
+.block-image:hover .description-container {
+    display : inline-block;
 }
 
 .block-image {
