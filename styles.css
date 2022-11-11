@@ -33,14 +33,19 @@ h1 {
     display : none;
 }
 
-.block-image:hover .description-container {
-    display : inline-block;
+.art-block:hover .description-container {
+    display : block;
 }
 
+.art-block {
+    display : inline;
+}
+
+
 .block-image {
+    display : block;
     float : left;
     padding-right: 20px;
-    width: 300px;
 }
 
 .art-block {
