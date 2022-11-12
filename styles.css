@@ -39,7 +39,6 @@ h1 {
 .description-paragraph {
     padding : 5px;
     font-size : 4vh;
-    visibility: visible;
     font-style: italic;
     color : #03ce9f;
 }
@@ -116,8 +115,27 @@ h1 {
     color : orange;
 }
 
-/* renaissance ONLY selectors */
+/* selectors for other pages */
+
+.genre-introduction {
+    padding : 5px;
+    font-size : 4vh;
+    color : #AF2BBF;
+}
+
 #renaissance-title {
-    font-size: 200px;
     color: rgb(218, 24, 205);
+    left : 10vw;
+    top : 30vh;
+}
+
+#impressionism-title {
+    color : #62e4bf;
+    top : -30vh;
+    left : 5vw;
+    font-size : 40vh;
+}
+
+#modern-title {
+    color : #e743f9;
 }
