@@ -137,5 +137,13 @@ h1 {
 }
 
 #modern-title {
-    color : #e743f9;
+    color : #2e9a58;
+    top : -10vh;
+}
+
+#romanticism-title {
+    color :rgb(218, 24, 205);
+    top : 0vh;
+    left : 10vw;
+    font-size : 40vh;
 }
