@@ -88,10 +88,14 @@ h1 {
 }
 
 .genre-title {
-    font-size : 10vh;
+    font-size : 9vh;
     font-weight :bold;
     color: #6C91BF;
     /* font-family : "Brush Script MT"; */
+}
+
+#lichtenstein {
+    height : 80vh;
 }
 
 .home-navigator {
@@ -124,26 +128,26 @@ h1 {
 }
 
 #renaissance-title {
-    color: rgb(218, 24, 205);
+    color: rgb(255, 255, 255);
     left : 10vw;
     top : 30vh;
 }
 
 #impressionism-title {
-    color : #62e4bf;
-    top : -30vh;
-    left : 5vw;
-    font-size : 40vh;
+    color : #ffffff;
+    top : 0vh;
+    left : 10vw;
+    font-size : 35vh;
 }
 
 #modern-title {
-    color : #2e9a58;
-    top : -10vh;
+    color : #ffffff;
+    top : 0vh;
 }
 
 #romanticism-title {
-    color :rgb(218, 24, 205);
+    color :rgb(255, 255, 255);
     top : 0vh;
-    left : 10vw;
-    font-size : 40vh;
+    left : 15vw;
+    font-size : 35vh;
 }
