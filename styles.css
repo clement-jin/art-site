@@ -98,6 +98,10 @@ h1 {
     height : 80vh;
 }
 
+/* #monet {
+    height : 90vh;
+} */
+
 .home-navigator {
     display: block;
     float: left;
@@ -135,9 +139,9 @@ h1 {
 
 #impressionism-title {
     color : #ffffff;
-    top : 0vh;
-    left : 10vw;
-    font-size : 35vh;
+    top :05vh;
+    left : 15vw;
+    font-size : 30vh;
 }
 
 #modern-title {
